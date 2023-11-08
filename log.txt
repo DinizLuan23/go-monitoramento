@@ -1,0 +1,4 @@
+08/11/2023 13:46:02 - https://random-status-code.herokuapp.com/ - online: false
+08/11/2023 13:46:09 - https://alura.com.br/ - online: true
+08/11/2023 13:46:16 - https://poupacred.com.br/ - online: true
+08/11/2023 13:46:17 - https://google.com/ - online: true
